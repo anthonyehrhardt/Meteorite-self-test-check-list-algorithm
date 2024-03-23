@@ -70,3 +70,19 @@ while True:
                 break
 t=input("press a key to close:")
 
+"""
+question1 = input("Does the rock attract a magnet? (y/n): ")
+question2 = input("Is it heavier than other rocks? (y/n): ")
+question3 = input("Is the inside shiny, like steel? (y/n): ")
+question4 = input("Does it have a dark, thin crust on the outside? (y/n): ")
+question5 = input("Does it have particles with silver luster or red spots? (y/n): ")
+question6 = input("Did someone see it fall? (y/n): ")
+question7 = input("Does it have regmaglypts? (y/n): ")
+question8 = input("Does it have holes or bubbles inside? (y/n): ")
+question9 = input("Is the inside lighter colored than the outside? (y/n): ")
+
+if question1.lower() == "y" and question2.lower() == "y" and question3.lower() == "y" and question8.lower() == "y":
+    print("It's likely a meteorite!")
+else:
+    print("It's not a meteorite.")
+"""
